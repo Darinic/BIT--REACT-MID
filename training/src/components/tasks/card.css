@@ -1,0 +1,12 @@
+ul {
+    background: rgb(51,137,138);
+    border-radius: 10px;
+    color: white;
+    float: right;
+    font-size: 16px;
+    line-height: 30px;
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 15px 25px;
+    width: 300px;
+}
